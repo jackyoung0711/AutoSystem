@@ -1,0 +1,7 @@
+D:\AutoCreateAnythings\JYM.DAL\bin\Debug\JYM.DAL.dll.config
+D:\AutoCreateAnythings\JYM.DAL\bin\Debug\JYM.DAL.dll
+D:\AutoCreateAnythings\JYM.DAL\bin\Debug\JYM.DAL.pdb
+D:\AutoCreateAnythings\JYM.DAL\obj\Debug\JYM.DAL.csprojResolveAssemblyReference.cache
+D:\AutoCreateAnythings\JYM.DAL\obj\Debug\JYM.DAL.csproj.CoreCompileInputs.cache
+D:\AutoCreateAnythings\JYM.DAL\obj\Debug\JYM.DAL.dll
+D:\AutoCreateAnythings\JYM.DAL\obj\Debug\JYM.DAL.pdb

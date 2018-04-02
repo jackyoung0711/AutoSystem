@@ -1,0 +1,10 @@
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\JYM.Model.dll
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\JYM.Model.pdb
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\Newtonsoft.Json.dll
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\System.Net.Http.Extensions.dll
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\System.Net.Http.Primitives.dll
+D:\AutoCreateAnythings\JYM.Model\bin\Debug\Newtonsoft.Json.xml
+D:\AutoCreateAnythings\JYM.Model\obj\Debug\JYM.Model.csprojResolveAssemblyReference.cache
+D:\AutoCreateAnythings\JYM.Model\obj\Debug\JYM.Model.csproj.CoreCompileInputs.cache
+D:\AutoCreateAnythings\JYM.Model\obj\Debug\JYM.Model.dll
+D:\AutoCreateAnythings\JYM.Model\obj\Debug\JYM.Model.pdb
